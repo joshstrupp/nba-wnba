@@ -1,4 +1,4 @@
-Method
+## Method
 
 The method starts by looking at player A's stats and standardizes them against every player in player A's league. The process is then repeated for player B for player B's league. Now, you have - relative to their respective leagues - 22 standardized stats for player A and 22 standardized stats for player B. Note that this factors in not how closely the numbers themselves align (e.g. player A with 20 points and player B with 20 points would be closely matched), but how their number align relative to their league (if a player A was the #1 scorer in their league with 20 points per game, and player B was the #1 scorer in their league with 35 points per game, they'd be closely matched).
 
