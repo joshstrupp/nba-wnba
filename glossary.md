@@ -3,8 +3,6 @@
 * Pos -- Position	
 * Age -- Player's age on February 1 of the season	
 * Tm -- Team
-
-The following are all per-game stats. 
 * G -- Games	
 * MP -- Minutes Played	
 * G -- Games	
