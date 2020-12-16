@@ -46,4 +46,4 @@
 * USG% -- Usage Percentage -	An estimate of the percentage of team plays used by a player while he was on the floor.
 * OWS -- Offensive Win Shares -	An estimate of the number of wins contributed by a player due to his offense.
 * DWS -- Defensive Win Shares -	An estimate of the number of wins contributed by a player due to his defense.
-* WS -- Win Shares -	An estimate of the number of wins contributed by a player.
+* WS (or Wsper) -- Win Shares -	An estimate of the number of wins contributed by a player.
