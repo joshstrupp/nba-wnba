@@ -12,4 +12,4 @@ Part III:
 * Stylistic Disparities: how the WNBA's strategy is better for fans and a data-driven look at "hero ball."
 * In Conclusion: Thoughts on the latest WNBA collective bargaining agreement, a plea to engage with the sport, and a Kobe quote.
 
-[Kaggle dataset is available.](https://www.kaggle.com/therealpumpkin/wnba-and-nba-player-comparisons-league-salaries) | [Call me beep me.](http://joshstrupp.com/contact/)
+[Kaggle dataset is available.](https://www.kaggle.com/therealpumpkin/wnba-and-nba-player-comparisons-league-salaries) | [Call me beep me.](https://www.joshstrupp.com/contact/)
