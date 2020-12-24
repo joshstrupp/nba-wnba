@@ -1,5 +1,5 @@
 # The NBA versus the WNBA – Superstar Similarities, Stylistic Disparities, and the Impact on the Wage Gap
-This is the data behind a three-part essay that uses statistics and proprietary data to explore how the NBA and WNBA's biggest stars align, why (despite their similarities) they're paid differently, and why their differences in style and strategy is something to celebrate. The author is me, [Josh Strupp](http://joshstrupp.com) - product designer at [http://Taoti Creative](taoti.com) by day, data hobbyist the rest of the time.
+This is the data behind a three-part essay that uses statistics and proprietary data to explore how the NBA and WNBA's biggest stars align, why (despite their similarities) they're paid differently, and why their differences in style and strategy is something to celebrate. The author is me, [Josh Strupp](http://joshstrupp.com) - product designer at [Taoti Creative](http://taoti.com) by day, data hobbyist the rest of the time.
 
 Part I:
 * Outlier Status: A glance at superstardom.
